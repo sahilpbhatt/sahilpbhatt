@@ -10,7 +10,7 @@
 
 ### About Me 🌐
 
-I am an MASc student in Industrial Engineering at Toronto Metropolitan University seeking opportunities in operations research, mathematical optimization, data science, and machine learning. I have experience working with mathematical optimization software such as Gurobi and CPLEX to solve large-scale routing, scheduling, and resource allocation problems. I also have a strong background in Operations Research (OR) and Mathematical Programming, including Linear Programming (LP), Mixed Integer Programming (MIP), and Constraint Programming (CP). I am a member of the Canadian Operational Research Society (CORS). 
+I hold a Master of Applied Science (MASc) in Industrial Engineering, with a specialization in Operations Research. I have experience working with mathematical optimization software such as Gurobi and CPLEX to solve large-scale routing, scheduling, and resource allocation problems. I also have a strong background in Operations Research (OR) and Mathematical Programming, including Linear Programming (LP), Mixed Integer Programming (MIP), and Constraint Programming (CP). I am a member of the Canadian Operational Research Society (CORS). 
 
 My research focuses on optimizing crowdsourced delivery platforms, such as Uber Eats, Postmates, DoorDash, and Instacart, where workers operate as independent contractors to fulfill delivery tasks. Sharing economy platforms including crowdsourced delivery platforms have faced criticism for the lack of protection they offer workers due to uncertain driver and demand supply. I have developed a mathematical model that optimizes the dynamic matching process in crowdsourced delivery platforms while providing fair compensation schemes to workers.
 
