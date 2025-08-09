@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sahil!
 
-## 🚀 Master's Student in Mechanical Engineering 
+## 🚀 MASc in Mechanical & Industrial Engineering | Operations Research
 
 📍 **Mississauga, Canada**  
 📧 **Email:** [sahil.bhatt@torontomu.ca](mailto:sahil.bhatt@torontomu.ca)  
